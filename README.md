@@ -60,7 +60,7 @@ Welcome to **My Java Freestyle Project**! This repository is designed as a compr
 
 Before you begin, ensure you have the following installed on your system:
 
-- **Java Development Kit (JDK)** - Version 8 or higher
+- **Java Development Kit (JDK)** - Version 21 or higher (java 25 recommended)
   - Download from [Oracle](https://www.oracle.com/java/technologies/downloads/) or [OpenJDK](https://openjdk.org/)
   - Verify installation: `java -version`
 
