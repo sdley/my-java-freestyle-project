@@ -1,9 +1,9 @@
 void main() {
     // Calculate the surface area of a rectangle
 
-    double length = 0.0;
-    double width = 0.0;
-    double area = 0.0;
+    double length;
+    double width;
+    double area;
 
     Scanner scanner = new Scanner(System.in);
 
