@@ -5,7 +5,7 @@ void main() {
     // Primitive: simple value stored directly in memory (stack)
     // Reference: memory address (stack) that points to the actual data stored in heap memory
 
-    // Primitive vs Reference Variables:
+    // Primitive vs Reference basics.Variables:
     // ---------    -------------------
     // int          string
     // double       array
