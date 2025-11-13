@@ -1,9 +1,17 @@
 package oop;
 
-public class Car {
+public class Car extends Vehicle {
     // Class: A blueprint for creating objects that encapsulate data and behavior.
     // Object: An entity that holds data and behavior related to that data (methods).
     // An object is an instance of a class.
+
+    Car() {
+    }
+
+    @Override
+    void go() {
+        System.out.println("The car is driving.");
+    }
 
     String make = "Ford";
     String model = "Mustang";
