@@ -1,6 +1,6 @@
 package oop;
 
-public abstract class Vehicle {
+public interface Vehicle {
 
-    abstract void go();
+    void go();
 }

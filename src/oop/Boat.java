@@ -1,9 +1,9 @@
 package oop;
 
-public class Boat extends Vehicle {
+public class Boat implements Vehicle {
 
     @Override
-    void go() {
+    public void go() {
         System.out.println("The boat is sailing.");
     }
 }
