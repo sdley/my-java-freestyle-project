@@ -1,0 +1,4 @@
+This is an example of writing to a file using Java.
+You can use different classes and methods to achieve this.
+Make sure to handle exceptions properly to avoid runtime errors.
+Happy coding!
